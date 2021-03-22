@@ -1,0 +1,12 @@
+
+setx GPU_FORCE_64BIT_PTR 0
+
+setx GPU_MAX_HEAP_SIZE 100
+
+setx GPU_USE_SYNC_OBJECTS 1
+
+setx GPU_MAX_ALLOC_PERCENT 100
+
+setx GPU_SINGLE_ALLOC_PERCENT 100
+
+ethminer.exe -P stratum1+tcp://0xcD6183Ec71b264af8877E862C5D8cbf90Fba47F7.Bolle@eu1.ethermine.org:4444 -U -R

@@ -1,0 +1,1 @@
+t-rex -a ethash -o stratum+tcp://eu1.ethermine.org:4444 -u 0xcD6183Ec71b264af8877E862C5D8cbf90Fba47F7 -p x
