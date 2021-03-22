@@ -16,5 +16,7 @@ This is the number you need to replace in all of those files:0xcD6183Ec71b264af8
 in some miners, there is option to name your mining pc for that you need to replace Morty with the name you want.
 if you forget to replace the wallet adress you can still mine but i get the profit :)
 
+TeamRedMiner also supports 4gb cards, so if you have old amd card you can try to use that.
+
 This is just for Ethereum mining!
 If you want to mine something else you need to set it up yourself.
