@@ -1,0 +1,69 @@
+[14:33:31] INFO - ----------------------------------------------
+[14:33:31] INFO - |                                            |
+[14:33:31] INFO - |                                            |
+[14:33:31] INFO - |                                            |
+[14:33:31] INFO - |                                            |
+[14:33:31] INFO - |                                            |
+[14:33:31] INFO - |                                            |
+[14:33:31] INFO - |                                            |
+[14:33:31] INFO - |         NBMiner - Crypto GPU Miner         |
+[14:33:31] INFO - |                    37.1                    |
+[14:33:31] INFO - |                                            |
+[14:33:31] INFO - ----------------------------------------------
+[14:33:31] INFO - ------------------- System -------------------
+[14:33:31] INFO - OS:     Windows 10 Version 2004, 10.0.19041
+[14:33:31] INFO - CPU:    Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz
+[14:33:31] INFO - RAM:    11315 MB / 16316 MB
+[14:33:31] INFO - VMEM:   13636 MB / 26556 MB
+[14:33:31] INFO - CU_DRV: 11.2, 461.72
+[14:33:31] INFO - CL_DRV: 
+[14:33:31] INFO - ------------------- Config -------------------
+[14:33:31] INFO - ALGO:   ethash
+[14:33:31] INFO - URL:    stratum+tcp://cn.sparkpool.com:13333
+[14:33:31] INFO - USER:   0x4296116d44a4a7259B52B1A756e19083e675062A.default
+[14:33:31] INFO - TEMP:   90C
+[14:33:31] INFO - ------------------- Device -------------------
+[14:33:31] INFO -  |ID|PCI|  CC|Memory|CU|
+[14:33:31] INFO - *| 0|  1|  86| 8192M|38| GeForce RTX 3060 Ti
+[14:33:31] INFO - ----------------------------------------------
+[14:33:32] INFO - ethash - Logging in to cn.sparkpool.com:13333 ...
+[14:33:33] INFO - ethash - Login succeeded.
+[14:33:33] INFO - API:  0.0.0.0:22333
+[14:33:33] INFO - API server started.
+[14:33:35] INFO - ethash - New job: cn.sparkpool.com:13333, ID: 1e9231fc, DIFF: 8.000G
+[14:33:36] INFO - Device 0 started, Free mem = 7161 MB.
+[14:33:38] INFO - Light cache built, 2.50 s.
+[14:33:39] INFO - ethash - New job: cn.sparkpool.com:13333, ID: c555a610, DIFF: 8.000G
+[14:33:39] INFO - ethash - New job: cn.sparkpool.com:13333, ID: cd0a34c8, DIFF: 8.000G
+[14:33:40] INFO - ethash - New job: cn.sparkpool.com:13333, ID: 60a20e05, DIFF: 8.000G
+[14:33:40] INFO - Device 0: DAG - Building, EPOCH 403
+[14:33:41] INFO - ethash - New job: cn.sparkpool.com:13333, ID: 6899ae2d, DIFF: 8.000G
+[14:33:44] INFO - ethash - New job: cn.sparkpool.com:13333, ID: 25108daa, DIFF: 8.000G
+[14:33:44] INFO - ethash - New job: cn.sparkpool.com:13333, ID: 58c176aa, DIFF: 8.000G
+[14:33:44] INFO - ethash - New job: cn.sparkpool.com:13333, ID: 442e8043, DIFF: 8.000G
+[14:33:45] INFO - ethash - New job: cn.sparkpool.com:13333, ID: eab0e137, DIFF: 8.000G
+[14:33:46] INFO - ethash - New job: cn.sparkpool.com:13333, ID: c0bfb813, DIFF: 8.000G
+[14:33:47] INFO - ethash - New job: cn.sparkpool.com:13333, ID: 6b5c87ca, DIFF: 8.000G
+[14:33:48] INFO - ethash - New job: cn.sparkpool.com:13333, ID: 9338a289, DIFF: 8.000G
+[14:33:49] INFO - ethash - New job: cn.sparkpool.com:13333, ID: d8c83699, DIFF: 8.000G
+[14:33:50] INFO - ethash - New job: cn.sparkpool.com:13333, ID: cbeb684d, DIFF: 8.000G
+[14:33:51] INFO - ethash - New job: cn.sparkpool.com:13333, ID: 9f765da1, DIFF: 8.000G
+[14:33:52] INFO - ethash - New job: cn.sparkpool.com:13333, ID: 96bd3020, DIFF: 8.000G
+[14:33:53] INFO - ethash - New job: cn.sparkpool.com:13333, ID: 3ffee6be, DIFF: 8.000G
+[14:33:53] INFO - ======================== Summary 2021-03-25 14:33:53 ========================
+[14:33:53] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|Temp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[14:33:53] INFO - | 0|3060ti|  0.000 |     0|     0|  0| 139|  64| 41|1815| 8100|  60|  0.000 |
+[14:33:53] INFO - |------------------+------+------+---+----+---------------------------------|
+[14:33:53] INFO - |    Total:  0.000 |     0|     0|  0| 139| Uptime:  0D 00:00:22   CPU: 17% |
+[14:33:53] INFO - =============================================================================
+[14:33:53] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[14:33:54] INFO - ethash - New job: cn.sparkpool.com:13333, ID: 07096f8d, DIFF: 8.000G
+[14:33:55] INFO - ethash - New job: cn.sparkpool.com:13333, ID: 7815cfce, DIFF: 8.000G
+[14:33:56] INFO - ethash - New job: cn.sparkpool.com:13333, ID: eb312ef8, DIFF: 8.000G
+[14:33:56] INFO - ethash - New job: cn.sparkpool.com:13333, ID: 9735ee31, DIFF: 8.000G
+[14:33:57] INFO - ethash - New job: cn.sparkpool.com:13333, ID: 52dada45, DIFF: 8.000G
+[14:33:58] INFO - ethash - New job: cn.sparkpool.com:13333, ID: 1591b913, DIFF: 8.000G
+[14:33:59] INFO - ethash - New job: cn.sparkpool.com:13333, ID: 152be1a8, DIFF: 8.000G
+[14:34:00] INFO - ethash - New job: cn.sparkpool.com:13333, ID: 0cdbb34e, DIFF: 8.000G
+[14:34:01] INFO - ethash - New job: cn.sparkpool.com:13333, ID: 523535d7, DIFF: 8.000G
+[14:34:02] INFO - ethash - New job: cn.sparkpool.com:13333, ID: 56987386, DIFF: 8.000G

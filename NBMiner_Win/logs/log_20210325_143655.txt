@@ -1,0 +1,75 @@
+[14:36:55] INFO - ----------------------------------------------
+[14:36:55] INFO - |                                            |
+[14:36:55] INFO - |                                            |
+[14:36:55] INFO - |                                            |
+[14:36:55] INFO - |                                            |
+[14:36:55] INFO - |                                            |
+[14:36:55] INFO - |                                            |
+[14:36:55] INFO - |                                            |
+[14:36:55] INFO - |         NBMiner - Crypto GPU Miner         |
+[14:36:55] INFO - |                    37.1                    |
+[14:36:55] INFO - |                                            |
+[14:36:55] INFO - ----------------------------------------------
+[14:36:55] INFO - ------------------- System -------------------
+[14:36:55] INFO - OS:     Windows 10 Version 2004, 10.0.19041
+[14:36:55] INFO - CPU:    Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz
+[14:36:55] INFO - RAM:    11233 MB / 16316 MB
+[14:36:55] INFO - VMEM:   17749 MB / 26556 MB
+[14:36:55] INFO - CU_DRV: 11.2, 461.72
+[14:36:55] INFO - CL_DRV: 
+[14:36:55] INFO - ------------------- Config -------------------
+[14:36:55] INFO - ALGO:   ethash
+[14:36:55] INFO - URL:    stratum+tcp://eu1.ethermine.org:4444
+[14:36:55] INFO - USER:   0xcD6183Ec71b264af8877E862C5D8cbf90Fba47F7.Morty
+[14:36:55] INFO - TEMP:   90C
+[14:36:55] INFO - ------------------- Device -------------------
+[14:36:55] INFO -  |ID|PCI|  CC|Memory|CU|
+[14:36:55] INFO - *| 0|  1|  86| 8192M|38| GeForce RTX 3060 Ti
+[14:36:55] INFO - ----------------------------------------------
+[14:36:55] INFO - ethash - Logging in to eu1.ethermine.org:4444 ...
+[14:36:55] INFO - ethash - Login succeeded.
+[14:36:55] INFO - API:  0.0.0.0:22333
+[14:36:55] INFO - API server started.
+[14:36:55] INFO - ethash - New job: eu1.ethermine.org:4444, ID: 1d566943, HEIGHT: 12108399, DIFF: 4.000G
+[14:36:57] INFO - Device 0 started, Free mem = 7161 MB.
+[14:36:58] INFO - ethash - New job: eu1.ethermine.org:4444, ID: 15081664, HEIGHT: 12108399, DIFF: 4.000G
+[14:36:58] INFO - ethash - New job: eu1.ethermine.org:4444, ID: 06007f8c, HEIGHT: 12108400, DIFF: 4.000G
+[14:36:58] INFO - ethash - New job: eu1.ethermine.org:4444, ID: fc087b95, HEIGHT: 12108400, DIFF: 4.000G
+[14:37:00] INFO - Light cache built, 2.28 s.
+[14:37:02] INFO - Device 0: DAG - Building, EPOCH 403
+[14:37:03] INFO - ethash - New job: eu1.ethermine.org:4444, ID: 66f86c12, HEIGHT: 12108400, DIFF: 4.000G
+[14:37:06] INFO - ethash - New job: eu1.ethermine.org:4444, ID: adfc5f11, HEIGHT: 12108400, DIFF: 4.000G
+[14:37:09] INFO - ethash - New job: eu1.ethermine.org:4444, ID: e7bebc12, HEIGHT: 12108401, DIFF: 4.000G
+[14:37:09] INFO - ethash - New job: eu1.ethermine.org:4444, ID: a9cd732b, HEIGHT: 12108401, DIFF: 4.000G
+[14:37:10] INFO - Device 0: DAG - Verification ok.
+[14:37:10] INFO - Device 0: DAG - Built, 7.84 s.
+[14:37:10] INFO - ethash - New job: eu1.ethermine.org:4444, ID: 09e96241, HEIGHT: 12108402, DIFF: 4.000G
+[14:37:10] INFO - ethash - New job: eu1.ethermine.org:4444, ID: 566fb388, HEIGHT: 12108402, DIFF: 4.000G
+[14:37:14] INFO - ethash - New job: eu1.ethermine.org:4444, ID: 50344305, HEIGHT: 12108402, DIFF: 4.000G
+[14:37:15] INFO - ======================== Summary 2021-03-25 14:37:15 ========================
+[14:37:15] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|Temp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[14:37:15] INFO - | 0|3060ti| 61.29 M|     0|     0|  0| 139|  58|  0|1425| 8100| 100| 440.9 K|
+[14:37:15] INFO - |------------------+------+------+---+----+---------------------------------|
+[14:37:15] INFO - |    Total: 61.29 M|     0|     0|  0| 139| Uptime:  0D 00:00:20   CPU:  6% |
+[14:37:15] INFO - =============================================================================
+[14:37:15] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[14:37:16] INFO - ethash - New job: eu1.ethermine.org:4444, ID: 45033ed8, HEIGHT: 12108403, DIFF: 4.000G
+[14:37:17] INFO - ethash - New job: eu1.ethermine.org:4444, ID: b764cd38, HEIGHT: 12108403, DIFF: 4.000G
+[14:37:21] INFO - ethash - New job: eu1.ethermine.org:4444, ID: 7538aec8, HEIGHT: 12108403, DIFF: 4.000G
+[14:37:24] INFO - ethash - New job: eu1.ethermine.org:4444, ID: b468558a, HEIGHT: 12108403, DIFF: 4.000G
+[14:37:28] INFO - ethash - New job: eu1.ethermine.org:4444, ID: 89203cde, HEIGHT: 12108403, DIFF: 4.000G
+[14:37:32] INFO - ethash - New job: eu1.ethermine.org:4444, ID: 58bc29f7, HEIGHT: 12108403, DIFF: 4.000G
+[14:37:33] INFO - ethash - New job: eu1.ethermine.org:4444, ID: 0651d9d2, HEIGHT: 12108404, DIFF: 4.000G
+[14:37:33] INFO - ethash - New job: eu1.ethermine.org:4444, ID: 7b66e3e5, HEIGHT: 12108404, DIFF: 4.000G
+[14:37:34] INFO - ethash - New job: eu1.ethermine.org:4444, ID: 8fae458d, HEIGHT: 12108404, DIFF: 4.000G
+[14:37:35] INFO - ======================== Summary 2021-03-25 14:37:35 ========================
+[14:37:35] INFO - |ID|Device|Hashrate|Accept|Reject|Inv|Powr|Temp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[14:37:35] INFO - | 0|3060ti| 61.27 M|     0|     0|  0| 139|  61| 30|1485| 8100| 100| 440.8 K|
+[14:37:35] INFO - |------------------+------+------+---+----+---------------------------------|
+[14:37:35] INFO - |    Total: 61.27 M|     0|     0|  0| 139| Uptime:  0D 00:00:40   CPU:  4% |
+[14:37:35] INFO - =============================================================================
+[14:37:35] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[14:37:38] INFO - ethash - New job: eu1.ethermine.org:4444, ID: d2cfe8f2, HEIGHT: 12108404, DIFF: 4.000G
+[14:37:42] INFO - ethash - New job: eu1.ethermine.org:4444, ID: c9761a22, HEIGHT: 12108405, DIFF: 4.000G
+[14:37:42] INFO - ethash - New job: eu1.ethermine.org:4444, ID: aa67684b, HEIGHT: 12108405, DIFF: 4.000G
+[14:37:46] INFO - ethash - New job: eu1.ethermine.org:4444, ID: a63072e9, HEIGHT: 12108405, DIFF: 4.000G

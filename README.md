@@ -12,6 +12,8 @@ They are all ready to mine, but if you want to profit from them you need to repl
 
 4. AlgorythmsForEthermine\t-rex-0.19.11-win-cuda11.1\ETH-ethermine.bat
 
+5. AlgorythmsForEthermine\NBMiner_Win\start_eth.bat
+
 This is the number you need to replace in all of those files:0xcD6183Ec71b264af8877E862C5D8cbf90Fba47F7
 in some miners, there is option to name your mining pc for that you need to replace Morty with the name you want.
 if you forget to replace the wallet adress you can still mine but i get the profit :)
